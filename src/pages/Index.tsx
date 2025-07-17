@@ -54,32 +54,32 @@ const Index = () => {
 
   const clanMembers = [
     {
-      name: "Steve_RTX",
+      name: "DarkVoid_RTX",
       rank: "Капитан",
-      level: 85,
+      level: 95,
       specialty: "Лидер",
-      avatar: "🧑‍🚀"
+      avatar: "⚡"
     },
     {
-      name: "Alex_Diamond",
+      name: "CrystalWings",
       rank: "Лейтенант", 
-      level: 72,
+      level: 78,
       specialty: "Архитектор",
-      avatar: "👩‍🔧"
+      avatar: "💎"
     },
     {
-      name: "Creeper_Hunter",
+      name: "ShadowBlade",
       rank: "Сержант",
-      level: 68,
-      specialty: "Защитник",
-      avatar: "⚔️"
+      level: 74,
+      specialty: "Снайпер",
+      avatar: "🏹"
     },
     {
-      name: "Block_Master",
+      name: "NetherKing",
       rank: "Рядовой",
-      level: 45,
-      specialty: "Строитель",
-      avatar: "🏗️"
+      level: 52,
+      specialty: "Шахтёр",
+      avatar: "🔥"
     }
   ];
 
