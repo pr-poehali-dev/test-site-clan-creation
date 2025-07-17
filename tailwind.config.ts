@@ -24,6 +24,16 @@ export default {
 				ring: 'hsl(var(--ring))',
 				background: 'hsl(var(--background))',
 				foreground: 'hsl(var(--foreground))',
+				minecraft: {
+					green: '#4CAF50',
+					'green-dark': '#388E3C',
+					orange: '#FF5722',
+					'orange-dark': '#D84315',
+					dirt: '#8B4513',
+					stone: '#808080',
+					cobble: '#606060',
+					'dark-gray': '#2125121',
+				},
 				primary: {
 					DEFAULT: 'hsl(var(--primary))',
 					foreground: 'hsl(var(--primary-foreground))'
