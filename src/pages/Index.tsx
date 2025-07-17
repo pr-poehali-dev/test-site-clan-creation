@@ -54,15 +54,15 @@ const Index = () => {
 
   const clanMembers = [
     {
-      name: "DarkVoid_RTX",
+      name: "Kirillzin333",
       rank: "Капитан",
       level: 95,
       specialty: "Лидер",
       avatar: "⚡"
     },
     {
-      name: "CrystalWings",
-      rank: "Лейтенант", 
+      name: "klinok_07",
+      rank: "Заместитель", 
       level: 78,
       specialty: "Архитектор",
       avatar: "💎"
